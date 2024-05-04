@@ -11,7 +11,7 @@ import java.util.Objects;
 public class DAO {
     private final String DB_URL = "jdbc:mysql://localhost:3306/";
     private final String USER = "root";
-    private final String PASSWORD = "Mbam475275$";
+    private final String PASSWORD = "";
 
     public DAO() throws SQLException {
 //        Class.forName("com.my")
